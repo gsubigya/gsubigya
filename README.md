@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subgqg
-- 👀 I’m interested in Cyber Scurity & Information Technology
+- 👀 I’m interested in Cyber Security & Information Technology
 - 🌱 I’m currently learning Python and Web Technology
 - 💞️ I’m looking to collaborate on Cyber Security Research
 - 📫 Reach me at info@subigya.com
