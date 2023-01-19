@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subgqg
-- 👀 I’m interested in Cyber Security & Information Technology
-- 🌱 I’m currently learning Python and Web Technology
+- 👀 I’m interested in Cyber Security & Digital Marketing
+- 🌱 I’m currently learning Python and Graphics Designing
 - 💞️ I’m looking to collaborate on Cyber Security Research
 - 📫 Reach me at info@subigya.com
 
