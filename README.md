@@ -15,7 +15,7 @@
 <details>
     <summary><h4> 📈 my motivation? </h4></summary>
         <tt>
-            I am a problem-solver and productivity enthusiast who 
+        I am a problem-solver and productivity enthusiast who 
             uses the power of Python, Java and JavaScript to make everyday tasks more 
             efficient, automated and streamlined. I strive to create practical and user-friendly 
             solutions that make a real difference in people's lives. I am constantly pushing the 
