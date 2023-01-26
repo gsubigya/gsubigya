@@ -24,14 +24,6 @@
             solutions I come up with and be motivated to bring your own ideas to life. Join me in the 
             quest to simplify the world around us through code.
         </tt>
-        <mark>
-                afterall
-        </mark>
-        <q>
-             Efficiency is doing things right, 
-             effectiveness is doing the right things.
-             - Peter Drucker
-        </q>
 </details>
 
 
