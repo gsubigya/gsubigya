@@ -6,6 +6,8 @@
 --->
 - 📫 Reach me at info@subigya.com
 
+<hr>
+
 ![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula)
 
 <hr>
