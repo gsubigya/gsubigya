@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @subgqg
+<!---
 - 👀 I’m interested in Cyber Security & Digital Marketing
 - 🌱 I’m currently learning Python and Graphics Designing
 - 💞️ I’m looking to collaborate on Cyber Security Research
+--->
 - 📫 Reach me at info@subigya.com
 
 ![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula)
