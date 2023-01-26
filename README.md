@@ -8,7 +8,7 @@
 
 <hr>
 
-![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula)acula)
+![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula)
 
 <hr>
 
