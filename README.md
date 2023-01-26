@@ -6,17 +6,7 @@
 --->
 - 📫 Reach me at info@subigya.com
 
-<style>
-hr { 
-  display: block;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 0.5px;
-} 
-</style>
+<hr>
 
 ![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula&border_color=#FFFF00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&show_icons=true&theme=dracula&border_color=#FFFF00)
