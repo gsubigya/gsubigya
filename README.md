@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cyber Security Research
 - 📫 Reach me at info@subigya.com
 
-"I am a problem-solver who uses the power of Python to make everyday tasks more efficient and streamlined. From Sudoku solvers to link shorteners, I strive to create practical and user-friendly solutions that make a real difference in people's lives. Follow me on GitHub to see my latest projects and join me in the quest to simplify the world around us through code."
+"I am a problem-solver and productivity enthusiast who uses the power of Python, Java and JavaScript to make everyday tasks more efficient, automated and streamlined. I strive to create practical and user-friendly solutions that make a real difference in people's lives. I am constantly pushing the boundaries of what can be accomplished with code. Follow my GitHub to see the innovative solutions I come up with and be motivated to bring your own ideas to life. Follow me on GitHub to see my latest projects and join me in the quest to simplify the world around us through code."
 
 <!---
 subgqg/subgqg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
