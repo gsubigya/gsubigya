@@ -8,21 +8,20 @@
 
 <hr>
 
-![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula)
+![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula)acula)
 
 <hr>
 
 <details>
     <summary><h4> 📈 my motivation? </h4></summary>
         <tt>
-        I am a problem-solver and productivity enthusiast who 
+            I am a problem-solver and productivity enthusiast who 
             uses the power of Python, Java and JavaScript to make everyday tasks more 
             efficient, automated and streamlined. I strive to create practical and user-friendly 
             solutions that make a real difference in people's lives. I am constantly pushing the 
             boundaries of what can be accomplished with code. Follow my GitHub to see the innovative 
-            solutions I come up with and be motivated to bring your own ideas to life. Follow me on 
-            GitHub to see my latest projects and join me in the quest to simplify the world around us 
-            through code.
+            solutions I come up with and be motivated to bring your own ideas to life. Join me in the 
+            quest to simplify the world around us through code.
         </tt>
 </details>
 
