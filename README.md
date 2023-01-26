@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @subgqg
 <!---
-- 👀 I’m interested in Cyber Security & Digital Marketing
-- 🌱 I’m currently learning Python and Graphics Designing
-- 💞️ I’m looking to collaborate on Cyber Security Research
+- 👀 I’m interested in ...........
+- 🌱 I’m currently learning ............
+- 💞️ I’m looking to collaborate on ...........
 --->
 - 📫 Reach me at info@subigya.com
 
 <hr>
 
-![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula&border_color=#FFFF00)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&show_icons=true&theme=dracula&border_color=#FFFF00)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Subigya's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&theme=dracula&hide_border=true"/></a> |
+| ------------- | ------------- |
 
 <hr>
 
