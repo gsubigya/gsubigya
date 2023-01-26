@@ -25,13 +25,11 @@
             quest to simplify the world around us through code.
         </tt>
         <mark>
-            <i>
                 afterall
-            </i>
         </mark>
         <q>
-            "Efficiency is doing things right, 
-             effectiveness is doing the right things." 
+             Efficiency is doing things right, 
+             effectiveness is doing the right things.
              - Peter Drucker
         </q>
 </details>
