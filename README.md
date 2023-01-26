@@ -8,8 +8,8 @@
 
 <hr>
 
-![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&show_icons=true&theme=dracula)
+![Subigya's Stats](https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&theme=dracula&border_color=#FFFF00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&show_icons=true&theme=dracula&border_color=#FFFF00)
 <hr>
 
 <details>
