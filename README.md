@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Subigya
 - 🌱 I’m currently learning AI & Social Engineering 
 - 😄 Pronouns: [He/Him](https://tinyurl.com/pronounclaimCHECKER)
-- ⚡ Fun Fact : I code for fun
+- ⚡ Argghh!! Bug makes me mad.
 - 📫 My email is <a href="https://mailhide.io/e/wrB9TGi3" onclick="popup=window.open('https://mailhide.io/e/wrB9TGi3','mailhidepopup','width=580,height=635'); return false;">here</a>
 
 <hr>
