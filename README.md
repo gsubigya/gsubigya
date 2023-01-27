@@ -6,15 +6,6 @@
 
 <hr>
 
-<details>
-<summary> <h4> 🔥 Streaks </h4> </summary>
-<p align="centre">
-<img src=https://streak-stats.demolab.com/?user=subgqg&theme=dark&mode=daily&hide_border=true&fire=FF69B4&ring=FF69B4&currStreakNum=FF69B4>
-</p>
-</details>
-
-<hr>
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&theme=dracula&hide_border=true"/></a> |
 | ------------- | ------------- |
 
@@ -30,7 +21,7 @@
   <img align="center" src="assets/languages/java.svg" width="50px" />&nbsp;
 </p>
 
-<hr>
+<hr style="width:50%; margin-left:25% !important; margin-right:25% !important;" />
 
 <p align="center">
 <i><b>Tools known:</b></i> 
@@ -45,6 +36,7 @@
 
 <hr>
 
+<!---
 <p align = "center">
   <i><b>Profiles:</b></i><br><br>
   <center>
@@ -67,6 +59,8 @@
 </p>
 
 <hr>
+--->
+
 <details> 
 <summary> <h4> 📈✨my motivation? </h4> </summary>
 
@@ -78,10 +72,12 @@ see for yourself. Join me in my mission to simplify the world with technology.
 </code>
 </details>
 
+<!---
 <details>
 <summary> <h4> 👨‍💻 Activity Graph </h4> </summary>
 <img alt="Subgqg's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=subgqg&theme=dracula&bg_color=1F222E&color=FF69B4&line=F85D7F&point=808080&hide_border=true"/>
 </details>
+--->
 
 <!---
 subgqg/subgqg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
