@@ -27,8 +27,8 @@
 <i><b>Tools known:</b></i> 
   <br><br>
   <img align="center" src="assets/tools/vs-code.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
-<!--<img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;--->
+  <img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;
+<!--<img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;--->
   <img align="center" src="assets/tools/terminal.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/linux.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
