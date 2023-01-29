@@ -4,6 +4,8 @@
 - ⚡ Argghh!! Bug makes me mad.
 - 📫 My email is <a href="https://mailhide.io/e/wrB9TGi3" onclick="popup=window.open('https://mailhide.io/e/wrB9TGi3','mailhidepopup','width=580,height=635'); return false;">here</a>
 
+<br>
+<p align="center"> https://komarev.com/ghpvc/?username=subgqg </p>
 <hr>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&theme=dracula&hide_border=true"/></a> |
