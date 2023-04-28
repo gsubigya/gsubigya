@@ -65,13 +65,14 @@
 
 <details> 
 <summary> <h4> 📈✨my motivation? </h4> </summary>
-
+<!---
 <code> I am passionate about using technology to make daily tasks easier 
 and more efficient. By using programming languages, I create practical solutions 
 that can make a real impact on people's lives. I am always pushing the limits of 
 what can be achieved with code and I invite you to check out my work on GitHub to 
 see for yourself. Join me in my mission to simplify the world with technology.
 </code>
+--->
 </details>
 
 <!---
