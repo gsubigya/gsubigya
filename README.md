@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Subigya
-- 🌱 I’m currently learning AI & Social Engineering 
+- 🌱 Coding My Thoughts into Reality 
 - 😄 Pronouns: [He/Him](https://tinyurl.com/pronounclaimCHECKER)
-- ⚡ Argghh!! Bug makes me mad.
+- 🐛 Seeking the Divine Perfection in Every Line
 - 📫 My email is <a href="https://mailhide.io/e/wrB9TGi3" onclick="popup=window.open('https://mailhide.io/e/wrB9TGi3','mailhidepopup','width=580,height=635'); return false;">here</a>
 
-<h4> Posting everything I code. </h4>
+<h4>🙏 Sharing the Code of Creation </h4>
 
 <hr>
 
