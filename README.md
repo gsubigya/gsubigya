@@ -2,7 +2,7 @@
 - 🌱 Coding My Thoughts into Reality 
 - 😄 Pronouns: [He/Him](https://tinyurl.com/pronounclaimCHECKER)
 - 🐛 Seeking the Divine Perfection in Every Line
-- 📫 My email is <a href="https://mailhide.io/e/wrB9TGi3" onclick="popup=window.open('https://mailhide.io/e/wrB9TGi3','mailhidepopup','width=580,height=635'); return false;">here</a>
+- 📫 My email is <a href="https://mailhide.io/e/De4B3NLK" onclick="popup=window.open('https://mailhide.io/e/De4B3NLK','mailhidepopup','width=580,height=635'); return false;">here</a>
 
 <h4>🙏 Sharing the Code of Creation </h4>
 
