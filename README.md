@@ -2,7 +2,7 @@
 - 🌱 Coding My Thoughts into Reality
 - 🐛 Seeking the Divine Perfection in Every Line
 - 😄 Pronouns: [He/Him](https://tinyurl.com/pronounclaimCHECKER)
-- 📫 My email is a herf="https://shorturl.at/bfjN9"> gitmes@subigya.com </a>
+- 📫 My email is <a herf="(https://shorturl.at/bfjN9)"> gitmes@subigya.com </a>
 
 <hr>
 <details>
