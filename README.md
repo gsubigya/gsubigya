@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Subigya
-- 🌱 Coding My Thoughts into Reality 
-- 😄 Pronouns: [He/Him](https://tinyurl.com/pronounclaimCHECKER)
+- 🌱 Coding My Thoughts into Reality
 - 🐛 Seeking the Divine Perfection in Every Line
-- 📫 My email is <a href="https://mailhide.io/e/De4B3NLK" onclick="popup=window.open('https://mailhide.io/e/De4B3NLK','mailhidepopup','width=580,height=635'); return false;">here</a>
-<h4>🙏 Sharing the Code of Creation </h4>
+- 😄 Pronouns: [He/Him](https://tinyurl.com/pronounclaimCHECKER)
+- 📫 My email is a herf="https://shorturl.at/bfjN9"> gitmes@subigya.com </a>
 
 <hr>
 <details>
