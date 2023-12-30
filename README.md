@@ -7,6 +7,7 @@
 <details>
 <summary> <h4>🕗 Timeline </h4> </summary>
 ✨ Date: 2023/12/30 [Started "One Day One Code - Challange"]
+  1st Code : RockPaperScissor
 </details>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&theme=dracula&hide_border=true"/></a> |
