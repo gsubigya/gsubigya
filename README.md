@@ -3,10 +3,14 @@
 - 😄 Pronouns: [He/Him](https://tinyurl.com/pronounclaimCHECKER)
 - 🐛 Seeking the Divine Perfection in Every Line
 - 📫 My email is <a href="https://mailhide.io/e/De4B3NLK" onclick="popup=window.open('https://mailhide.io/e/De4B3NLK','mailhidepopup','width=580,height=635'); return false;">here</a>
-
 <h4>🙏 Sharing the Code of Creation </h4>
 
 <hr>
+<details>
+<summary> <h4>🕗 Timeline </h4> </summary>
+  - ✨ Date: 2023/12/30 [Started "One Day One Code - Challange"]
+
+</details>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&theme=dracula&hide_border=true"/></a> |
 | ------------- | ------------- |
@@ -74,15 +78,3 @@ see for yourself. Join me in my mission to simplify the world with technology.
 </code>
 --->
 </details>
-
-<!---
-<details>
-<summary> <h4> 👨‍💻 Activity Graph </h4> </summary>
-<img alt="Subgqg's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=subgqg&theme=dracula&bg_color=1F222E&color=FF69B4&line=F85D7F&point=808080&hide_border=true"/>
-</details>
---->
-
-<!---
-subgqg/subgqg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
