@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Subigya
 - 🌱 Coding My Thoughts into Reality
 - 🐛 Seeking the Divine Perfection in Every Line
-- 😄 Pronouns: [He/Him](https://tinyurl.com/pronounclaimCHECKER)
 - 📫 My email is <a herf="#"> gitmes@subigya.com </a>
 
 <hr>
