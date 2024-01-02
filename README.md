@@ -3,8 +3,9 @@
 - 🐛 Seeking the Divine Perfection in Every Line
 - 📫 My email is <a herf="#"> gitmes@subigya.com </a>
 <hr>
+
+<!--
 <details>
-  <!--
 <summary> <h4>🕗 Timeline </h4> </summary>
 ✨ Date: 2023/12/30 [Started "One Day One Code - Challange"]
 👾 Date: 2024/01/02 
