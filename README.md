@@ -11,7 +11,7 @@
 👾 Date: 2024/01/02 
 </details>
 -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=subgqg&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subgqg&layout=compact&theme=dracula&hide_border=true"/></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsubigya&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsubigya&layout=compact&theme=dracula&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 <hr>
