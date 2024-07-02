@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Subigya
 - 🌱 Coding My Thoughts into Reality
 - 🐛 Seeking the Divine Perfection in Every Line
-- 📫 My email is <a herf="#"> gitmes@subigya.com </a>
+- 📫 My email is <a herf="#"></a>
 <hr>
 
 <!--
