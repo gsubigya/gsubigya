@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subigya
 - 🌱 Coding My Thoughts into Reality
-- 📫 My email is <a herf="#"></a>
+- 📫 My email is <a herf="mailto:gg@subigya.com"></a>
 <hr>
 
 ## 🌐 Socials:
@@ -15,6 +15,3 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gsubigya&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
