@@ -1,40 +1,23 @@
 - 👋 Hi, I’m Subigya
 - 🌱 Coding My Thoughts into Reality
-- 🐛 Seeking the Divine Perfection in Every Line
 - 📫 My email is <a herf="#"></a>
 <hr>
 
-<!--
-<details>
-<summary> <h4>🕗 Timeline </h4> </summary>
-✨ Date: 2023/12/30 [Started "One Day One Code - Challange"]
-👾 Date: 2024/01/02 
-</details>
--->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsubigya&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsubigya&layout=compact&theme=dracula&hide_border=true"/></a> |
-| ------------- | ------------- |
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@subigya.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/subgqg) 
 
-<hr>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gsubigya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gsubigya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsubigya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-<i><b>Currently Learning:</b></i> 
-  <br><br>
-  <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/css.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/javascript.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/java.svg" width="50px" />&nbsp;
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<hr style="width:50%; margin-left:25% !important; margin-right:25% !important;" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gsubigya&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
-<p align="center">
-<i><b>Tools known:</b></i> 
-  <br><br>
-  <img align="center" src="assets/tools/vs-code.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;
-<!--<img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;--->
-  <img align="center" src="assets/tools/terminal.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/linux.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=gsubigya&icon=3&color=1)](https://visitcount.itsvg.in)
