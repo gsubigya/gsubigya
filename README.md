@@ -21,18 +21,7 @@ Coding my thoughts into reality.
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  
-![Tampermonkey](https://img.shields.io/badge/tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsubigya&theme=dark&include_all_commits=true&count_private=true)  
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=gsubigya&theme=dark)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsubigya&theme=dark&include_all_commits=true&count_private=true&layout=compact)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
 
