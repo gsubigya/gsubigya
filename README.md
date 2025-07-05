@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subigya
 - 🌱 Coding My Thoughts into Reality
-- 📫 My email is <a herf="mailto:gg@subigya.com">dev@subigya.com</a>
+- 📫 My email is <a herf="mailto:dev@subigya.com">dev@subigya.com</a>
 <hr>
 
 ## 🌐 Socials:
