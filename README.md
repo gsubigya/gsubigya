@@ -2,7 +2,7 @@
 
 Coding my thoughts into reality.  
 
-> Currently learning cybersecurity with the aim to master ethical hacking and offensive security.
+>  offensive security.
 
 [dev@subigya.com](mailto:dev@subigya.com)
 
